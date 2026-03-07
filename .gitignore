@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi5naXRpZ25vcmUiXSwic291cmNlc0NvbnRlbnQiOlsibm9kZV9tb2R1bGVzL1xuYnVpbGQvXG5kaXN0L1xuY292ZXJhZ2UvXG4uRFNfU3RvcmVcbioubG9nXG4uZW52KlxuIS5lbnYuZXhhbXBsZVxuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLFlBQVk7QUFDWixLQUFLO0FBQ0wsSUFBSTtBQUNKLFFBQVE7QUFDUixDQUFDO0FBQ0QsQ0FBQyxDQUFDO0FBQ0YsQ0FBQyxHQUFHO0FBQ0osQ0FBQyxDQUFDLEdBQUcsQ0FBQzsifQ==
